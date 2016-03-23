@@ -8,9 +8,14 @@
   </p>
 </p>
 
+####Whats this?
+
+This is an open initiative to make sure this won't happen again. We think that immutability is a good way forward, but we need to reach some kind of consensus in the community. Please let us know what you think. Send PRs here, add issues, send tweets. Let's solve this.
+
+[![Join the chat at https://gitter.im/ipmjs/ipmjs](https://badges.gitter.im/ipmjs/ipmjs.svg)](https://gitter.im/ipmjs/ipmjs)
+
 ####Motivation
 __March 22, 2016__ will forever be remembered for all of us who is hooked on __npm__ and its beautiful ecosystem of modules. This was the day when [Azer](https://twitter.com/azerbike) rightfully rage-quited because kik decided to send its lawyers and claim ownership of his package name 'kik', which the author refused. kik then contacted npm which gave kik the ownership. derp.
-
 
 Azer unpublished all of his ~250 npm packages which according to npm, resulted in hundreds of broken builds every second worldwide.
 
@@ -22,27 +27,17 @@ it might make decisions (like this) that might not be in its own community's bes
 Create an open-sourced alternative to npm,  make it immutable, meaning that
 if a package is published, it will be available for all it's dependents till the end of times. This would solve the issues that npm has right now, that a package could be published one second to be unpublished the next.
 
-####Here is a wish list:
-
-- npm install ipm-cli -g :D
-
+####Here is a wish list for ipm:
+- A CLI (npm install ipm-cli -g)
 - Immutable packages
-
 - Require legit licenses
-
 - Verifiable packages
-
 - More robust user authentication
-
 - No more soft dependencies (>= 1.0.3 etc)
-
 - 100% implemented on open-sourced frameworks and libraries
+- Decentralized hosting?
 
-- Decentralized hosting
+####"A want a fix now. How could npm be fixed today?!"
+Make npm immutable, an `npm install` today should have the same result as `npm install' next year. 
 
-####Whats next?
-
-This is an open initiative to make sure this won't happen again. We think that immutability is a good way forward, but we need to reach some kind of consensus in the community. Please let us know what you think. Send PRs here, add issues, send tweets. Let's solve this.
-
-[![Join the chat at https://gitter.im/ipmjs/ipmjs](https://badges.gitter.im/ipmjs/ipmjs.svg)](https://gitter.im/ipmjs/ipmjs)
 
