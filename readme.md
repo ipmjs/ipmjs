@@ -38,7 +38,7 @@ if a package is published, it will be available for all it's dependents till the
 
 - 100% implemented on open-sourced frameworks and libraries
 
-- Open-source-based hosting
+- Decentralized hosting
 
 ####Whats next?
 
