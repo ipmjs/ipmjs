@@ -38,4 +38,4 @@ if a package is published, it will be available for all it's dependents till the
 - Decentralized hosting?
 
 ####I want a fix now, how could npm be fixed today?!
-Ask npm to make their stuff immutable, an `npm install` today should have the same result as `npm insall` next year. 
+Ask npm to make their stuff immutable, an `npm install` today should have the same result as `npm install` next year. 
