@@ -28,7 +28,7 @@ Create an open-sourced alternative to npm,  make it immutable, meaning that
 if a package is published, it will be available for all it's dependents till the end of times. This would solve the issues that npm has right now, that a package could be published one second to be unpublished the next.
 
 ####Here is a wish list for ipm:
-- A CLI (npm install ipm-cli -g)
+- A CLI (`npm install ipm-cli -g` to enable easy migration)
 - Immutable packages
 - Require legit licenses
 - Verifiable packages
