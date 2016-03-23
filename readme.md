@@ -27,6 +27,8 @@ __Here is a wish list:__
 
 - Immutable packages
 
+- Require legit licenses
+
 - Verifiable packages
 
 - More robust user authentication
