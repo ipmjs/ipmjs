@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/ipmjs/logos/master/logo%400%2C75x.png)
+
 ipm - Immutable Package Manager
 ============================
 
