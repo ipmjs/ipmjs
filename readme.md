@@ -21,7 +21,7 @@ Azer unpublished all of his ~250 npm packages which according to npm, resulted i
 
 ####What is the problem?
 Node.js is dependent on npm to be functional, since the majority of web developers use it to manage dependencies in their projects. npm is also a for-profit company which could be a problem since
-it might make decisions (like this) that might not be in its own community's best interest.
+it might make decisions (like [this](https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.3lrsd6pfw)) that might not be in its own community's best interest.
 
 ####How could we solve this?
 Create an open-sourced alternative to npm,  make it immutable, meaning that
