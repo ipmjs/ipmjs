@@ -17,7 +17,7 @@ This is an open initiative to make sure [this](https://medium.com/@azerbike/i-ve
 ####Motivation
 __March 22, 2016__ will forever be remembered for all of us who is hooked on __npm__ and its beautiful ecosystem of modules. This was the day when [Azer](https://twitter.com/azerbike) rightfully rage-quited because kik decided to send its lawyers and claim ownership of his package name 'kik', which the author refused. kik then contacted npm which gave kik the ownership. derp.
 
-Azer unpublished all of his ~250 npm packages which according to npm, resulted in hundreds of broken builds every second worldwide.
+Azer unpublished all of his ~250 npm packages which according to npm, resulted in hundreds of broken builds every second worldwide. double-derp.
 
 ####What is the problem?
 Node.js is dependent on npm to be functional, since the majority of web developers use it to manage dependencies in their projects. npm is also a for-profit company which could be a problem since
