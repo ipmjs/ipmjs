@@ -10,7 +10,7 @@
 
 ####Whats this?
 
-This is an open initiative to make sure this won't happen again. We think that immutability is a good way forward, but we need to reach some kind of consensus in the community. Please let us know what you think. Send PRs here, add issues, send tweets. Let's solve this.
+This is an open initiative to make sure [this](https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.8b8cid7h0) won't happen again. We think that immutability is a good way forward, but we need to reach some kind of consensus in the community. Please let us know what you think. Send PRs here, add issues, send tweets. Let's solve this.
 
 [![Join the chat at https://gitter.im/ipmjs/ipmjs](https://badges.gitter.im/ipmjs/ipmjs.svg)](https://gitter.im/ipmjs/ipmjs)
 
