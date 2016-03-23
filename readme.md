@@ -11,6 +11,8 @@
 </p>
 
 ####Motivation
+
+[![Join the chat at https://gitter.im/ipmjs/ipmjs](https://badges.gitter.im/ipmjs/ipmjs.svg)](https://gitter.im/ipmjs/ipmjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 __March 22, 2016__ will forever be remembered for all of us who is hooked on __npm__ and its beautiful ecosystem of modules. This was the day when [Azer](https://twitter.com/azerbike) rightfully rage-quited because kik decided to send its lawyers and claim ownership of the package name 'kik', which the author refused. kik then contacted npm which gave kik the ownership. derp.
 
 
