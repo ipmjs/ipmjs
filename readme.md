@@ -42,12 +42,5 @@ if a package is published, it will be available for all it's dependents till the
 
 - Open-source-based hosting
 
-
-
-
-
-__Signed by__
-
-Pierre Reimertz  | [github](https://github.com/reimertz) | [twitter](https://twitter.com/reimertz)
-
-
+####Whats next?
+This is an open initiative to make sure this won't happen again. We think that immutability is a good way forward, but we need to reach some kind of consensus in the community. Please let us know what you think. Send PRs here, add issues, send tweets. Let's solve this.
