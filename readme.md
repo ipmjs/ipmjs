@@ -2,7 +2,7 @@
   <img height="50" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNiYAAAAAkAAxkR2eQAAAAASUVORK5CYII=">
 </p>
 <p align="center">
-  <img height="125" src="https://raw.githubusercontent.com/ipmjs/logos/master/logo.gif">
+  <img height="auto" width="300" src="https://raw.githubusercontent.com/ipmjs/logos/master/logo.gif">
   <p>
     <img height="50" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNiYAAAAAkAAxkR2eQAAAAASUVORK5CYII=">
   </p>
