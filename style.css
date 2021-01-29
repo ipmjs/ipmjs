@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+header{
+    width: 100% 100%;
+    height: 100vh;
+    background-color: cadetblue;
+}
+header nav .list{
+    width: 100% 100%;
+    height: 15vh;
+    background-color:grey;
+    padding-top: 50px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    color: cornsilk;
+}
+
+header nav ul li{
+    color: honeydew;
+    text-decoration: none;
+}
+header nav ul li:hover{
+    width: 20px;
+    color: darkslategrey;
+}
+header .main{
+    padding: 300px;
+}
+header .main h2{
+    text-transform: uppercase;
+}
+header .main #btn{
+    margin-top: 30px;
+    width: 100px;
+    height: 5vh;
+    line-height: 5px;
+    color: indigo;
+}
+header .main #btn:hover{
+    background-color: transparent;
+}
